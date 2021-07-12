@@ -50,6 +50,10 @@ class AlbumDetailsViewController: UIViewController ,UICollectionViewDelegate , U
      Now the change is edited from abhishek's end.
      */
     
+    /**
+     Check it now again.
+     */
+    
     //MARK: View Will Appear
     override func viewWillAppear(_ animated: Bool) {
         setBackWithTitle(titleVal : "Album Details")
