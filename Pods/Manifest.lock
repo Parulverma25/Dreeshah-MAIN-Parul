@@ -1,0 +1,104 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AnimatedField (2.4.4)
+  - BEMCheckBox (1.4.1)
+  - Cosmos (23.0.0)
+  - CountryPickerView (3.2.0)
+  - DLRadioButton (1.4.12)
+  - FlagPhoneNumber (0.8.0):
+    - FlagPhoneNumber/libPhoneNumberiOS (= 0.8.0)
+  - FlagPhoneNumber/libPhoneNumberiOS (0.8.0)
+  - FSCalendar (2.8.2)
+  - ImageScrollView (1.9.3)
+  - iOSDropDown (0.3.4)
+  - IQKeyboardManagerSwift (6.5.6)
+  - Masonry (1.1.0)
+  - PageMenu (2.0.0)
+  - Player (0.14.0)
+  - SBCardPopup (0.3.0)
+  - SDWebImage (5.11.1):
+    - SDWebImage/Core (= 5.11.1)
+  - SDWebImage/Core (5.11.1)
+  - SideMenu (6.5.0)
+  - SpreadsheetView (0.9.1)
+  - TagListView (1.4.1)
+  - Toast-Swift (5.0.1)
+  - TOCropViewController (2.6.0)
+  - WWCalendarTimeSelector (1.3.13)
+
+DEPENDENCIES:
+  - Alamofire (= 4.9.1)
+  - AnimatedField
+  - BEMCheckBox
+  - Cosmos
+  - CountryPickerView
+  - DLRadioButton
+  - FlagPhoneNumber
+  - FSCalendar
+  - ImageScrollView
+  - iOSDropDown
+  - IQKeyboardManagerSwift
+  - Masonry
+  - PageMenu
+  - Player
+  - SBCardPopup
+  - SDWebImage
+  - SideMenu
+  - SpreadsheetView
+  - TagListView (~> 1.0)
+  - Toast-Swift
+  - TOCropViewController
+  - WWCalendarTimeSelector
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AnimatedField
+    - BEMCheckBox
+    - Cosmos
+    - CountryPickerView
+    - DLRadioButton
+    - FlagPhoneNumber
+    - FSCalendar
+    - ImageScrollView
+    - iOSDropDown
+    - IQKeyboardManagerSwift
+    - Masonry
+    - PageMenu
+    - Player
+    - SBCardPopup
+    - SDWebImage
+    - SideMenu
+    - SpreadsheetView
+    - TagListView
+    - Toast-Swift
+    - TOCropViewController
+    - WWCalendarTimeSelector
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AnimatedField: af48a2d59a50b33b30446267f7f2af274296203c
+  BEMCheckBox: 5ba6e37ade3d3657b36caecc35c8b75c6c2b1a4e
+  Cosmos: b5c6a9a637e28a061b54c8f8b1d8529d7d4db73f
+  CountryPickerView: 9b093bfffb4b06a69ba6185a798cadbf863720e7
+  DLRadioButton: d7c4e225ed0e8013cef7be61455230c7557ad7c1
+  FlagPhoneNumber: 3712455b95f66cb0f2016fef7d9e34cddf8c7f9a
+  FSCalendar: e6a2eb9c571bf0719ed797ef807e08426753c241
+  ImageScrollView: d3ce8371e0d44299b2b638410db45387e18aa83f
+  iOSDropDown: c10a761f9a00c3f1cc9d3bce43ae504628e2f692
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  PageMenu: 9c38fd7e0d9ef4b1408320f55bb907bbc0e538dc
+  Player: 37e0acc16ea1495fc241df88fe9f089367513331
+  SBCardPopup: 76a6ac83cbb0fde07a84df31ade1e23c62219a1c
+  SDWebImage: a7f831e1a65eb5e285e3fb046a23fcfbf08e696d
+  SideMenu: f583187d21c5b1dd04c72002be544b555a2627a2
+  SpreadsheetView: 688dbd19f2b355df0eb09e486266fd913a013449
+  TagListView: a1c236d17960a0cf64156725a76ce6d73ebce2be
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+  TOCropViewController: 3105367e808b7d3d886a74ff59bf4804e7d3ab38
+  WWCalendarTimeSelector: 334f8b4ff16367d75fb9f21073203641fbd3d749
+
+PODFILE CHECKSUM: 6d6f143c969ebebf08a0aa834f178e4aaabfaf27
+
+COCOAPODS: 1.10.1
