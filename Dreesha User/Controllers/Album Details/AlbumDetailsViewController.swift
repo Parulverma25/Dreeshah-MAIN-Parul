@@ -45,7 +45,7 @@ class AlbumDetailsViewController: UIViewController ,UICollectionViewDelegate , U
      Parul Verma edited this code on 12-7-21
      */
     
-    
+    //Its working on my side
     
     
     //MARK: View Will Appear
