@@ -39,7 +39,6 @@ class AlbumDetailsViewController: UIViewController ,UICollectionViewDelegate , U
         AlbmDtlClctnView.dataSource=self
         AlbmDtlClctnView.reloadData()
         self.hideKeyboardWhenTappedAround()
-        
     }
     
     /**
