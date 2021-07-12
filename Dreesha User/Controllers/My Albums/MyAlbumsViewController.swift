@@ -17,6 +17,7 @@ class MyAlbumsViewController: UIViewController , UICollectionViewDelegate , UICo
     //MARK: Variable
     var viewModel = MyAlbumsViewModel()
     
+    //MY Album View Controller
 
     override func viewDidLoad() {
         super.viewDidLoad()
